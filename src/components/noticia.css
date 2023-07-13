@@ -1,0 +1,38 @@
+.all{
+    width:99%;
+    background-color: rgb(37, 37, 37);
+    border-radius: 30px;
+    color: #fff;
+    padding: 10px;
+}
+.titulo h1{
+    font-size: 30px;
+    padding: 15px; 
+}
+.image img{
+    width: 90%;
+    padding: 15px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+p{
+    font-size: 15px;
+}
+header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: rgb(36, 36, 36);
+}
+header h1{
+    color: rgb(255, 128, 0);
+}
+.hA{
+    display: flex;
+    justify-content: space-between;
+}
+.hA a{
+    color: rgb(255, 128, 0);
+    padding: 3px;
+}
